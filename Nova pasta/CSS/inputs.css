@@ -1,0 +1,10 @@
+input:required:invalid {
+    border: solid 1px red;
+}
+input:required:valid {
+     border: solid 1px forestgreen;
+}
+
+.font-size-12{
+  font-size: 12px;
+}

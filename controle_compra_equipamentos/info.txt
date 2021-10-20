@@ -1,6 +1,0 @@
-Tecnologias usadas
-
-PHP/postgreSQL
-Javascript
-HTML
-bootstrap

@@ -1,1 +1,0 @@
-# controle_compra_equipamentos
